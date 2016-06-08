@@ -1,5 +1,13 @@
 # FEWD Denver 01 Class Repository
 
+> Programming is not a zero-sum game. Teaching something to a fellow programmer doesn't take it away from you. I'm happy to share what I can, because I'm in it for the love of programming. 
+> 
+> * [John Carmack](https://en.wikipedia.org/wiki/John_Carmack)
+
+> Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better. 
+> 
+> * John Carmack
+
 This is the class repo for the Denver inaugural FEWD course. Welcome Denver June  `16 FEWD students! =)
 
 Herein you will find all the class notes, homework assignments, and administrivia that you need for the course.
