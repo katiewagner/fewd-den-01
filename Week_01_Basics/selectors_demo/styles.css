@@ -1,0 +1,24 @@
+body {
+  background: gray;
+}
+
+/* descendant */
+#a #c {
+  background: blue;
+  color: white;
+}
+
+/* child */
+#a > #b {
+  background: red;
+}
+
+/* first-child */
+#e div:first-child {
+  background: black;
+}
+
+/* sibling */
+#c + #d {
+  background: yellow;
+}
