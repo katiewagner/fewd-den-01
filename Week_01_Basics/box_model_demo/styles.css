@@ -1,9 +1,9 @@
 body {
   background: green;
+  color: white;
 }
 
 .first, .second {
-  color: white;
   background: black;
   text-align: center;
   display: table;
@@ -19,8 +19,8 @@ body {
 }
 
 .second {
-  width: 400px;
-  height: 400px;
+  width: 12.5em;
+  height: 12.5em;
 }
 
 h1, h2 {
