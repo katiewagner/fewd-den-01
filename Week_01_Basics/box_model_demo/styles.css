@@ -1,0 +1,29 @@
+body {
+  background: green;
+}
+
+.first, .second {
+  color: white;
+  background: black;
+  text-align: center;
+  display: table;
+  background-clip: content-box;
+  padding: 50px;
+  margin: 50px;
+  border: 10px solid blue;
+}
+
+.first {
+  width: 200px;
+  height: 200px;
+}
+
+.second {
+  width: 400px;
+  height: 400px;
+}
+
+h1, h2 {
+  vertical-align: middle;
+  display: table-cell;
+}
