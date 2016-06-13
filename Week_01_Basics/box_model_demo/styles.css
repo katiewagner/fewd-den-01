@@ -16,11 +16,22 @@ body {
 .first {
   width: 200px;
   height: 200px;
+  top: 100px;
+  left: 200px;
+  z-index:2;
 }
 
 .second {
   width: 12.5em;
   height: 12.5em;
+  top: 100px;
+  left: 200px;
+  z-index:1;
+}
+
+.third {
+  width: 300px;
+  height: 300px;
 }
 
 h1, h2 {
