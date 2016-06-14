@@ -9,9 +9,9 @@
 ###Description 
 
 
-A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file) for the site, along with the copy and assets. You need to take these files and turn it into a landing page.
+A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](./starter_code/design_file) for the site, along with the copy and assets. You need to take these files and turn it into a landing page.
 
-![Relaxr Landing Page](starter_code/images/relaxr_landing.jpg)
+![Relaxr Landing Page](./starter_code/images/relaxr_landing.jpg)
 
 <br>
 
@@ -21,7 +21,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 ###Real-World Applications
 
 
-- Build a website from a [design file](starter_code/design_file)
+- Build a website from a [design file](./starter_code/design_file)
 - Integrate advanced CSS properties
 - Use HTML5 structural elements
 - Use CSS Resets to "normalize" the rendering of your page across different browsers
