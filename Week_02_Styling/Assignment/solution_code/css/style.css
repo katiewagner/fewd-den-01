@@ -54,6 +54,7 @@ body {
   font-size: 1.2em;
   line-height: 1.4;
   font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 
 
@@ -61,11 +62,6 @@ body {
 /* LAYOUT
 /*******************************************/
 
-/* Center the container */
-#container {
-  width: 100%; 
-  margin: auto;
-}
 
 header {
   background: url(../images/header_bg.jpg);
@@ -75,6 +71,7 @@ header {
   height: 0;
   padding-top: 58.34%;
   position: relative;  
+  margin: 0 auto;
 }
 
 .content {
@@ -93,6 +90,6 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
-
-
-
+.left {
+  text-align: left;
+}
