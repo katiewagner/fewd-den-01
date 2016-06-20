@@ -82,10 +82,6 @@ header {
   left: 0;
 }
 
-footer {
-
-}
-
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
@@ -132,6 +128,8 @@ footer h1 {
 
 #secondary-cta button {
   font-size: 1.2em;
+  background: #033048;
+  color: white;
 }
 
 aside {
@@ -167,7 +165,8 @@ blockquote {
   font-weight: 800;
 }
 
-.yellow {
+.yellow-bg {
+  background: #f9e42e;
 }
 
 .dark-blue {
