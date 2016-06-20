@@ -62,6 +62,9 @@ body {
 /* LAYOUT
 /*******************************************/
 
+section, header, aside, footer, h1, h2, blockquote {
+  margin: 0 auto;
+}
 
 header {
   background: url(../images/header_bg.jpg);
@@ -143,6 +146,7 @@ aside footer {
 
 #benefits {
   color: #606161;
+  background: #f0efef;
 }
 
 #benefits h1 {
@@ -170,7 +174,7 @@ blockquote {
 }
 
 .dark-blue {
-  color: #f9e42e;
+  color: #033048;
 }
 
 .almost-black {
