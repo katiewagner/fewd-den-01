@@ -90,8 +90,36 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+.extra-bold {
+  font-weight: 800;
+}
+
+.regular {
+  font-weight: 400;
+}
+
+.light, .light-italic {
+  font-weight: 300;
+}
+
+blockquote q {
+  font-style: italic;
+}
+
+.tiny {
+  font-size: 1.3em;
+}
+
+header h2 {
+  font-size: 2.4em;
+}
+
 header h1 {
   padding-top: 1em;
+}
+
+header button {
+  font-size: 1.4em;
 }
 
 footer {
@@ -102,12 +130,25 @@ footer h1 {
   color: #f9e42e;
 }
 
+#secondary-cta button {
+  font-size: 1.2em;
+}
+
 aside {
   background: url(../images/testimonial_bg.jpg);
+  font-size: 1.8em;
+}
+
+aside footer {
+  background: inherit;
 }
 
 #benefits {
   color: #606161;
+}
+
+#benefits h1 {
+  font-size: 2em;
 }
 
 .left {
@@ -123,7 +164,6 @@ blockquote {
 }
 
 .logo {
-  font-size: 2.4em;
   font-weight: 800;
 }
 
