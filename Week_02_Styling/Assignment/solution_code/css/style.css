@@ -91,6 +91,14 @@ header {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+button {
+  border-radius: 0.5em;
+  border: none;
+  padding: 0.5em;
+  margin: 1em;
+  width: 26rem;
+}
+
 .extra-bold {
   font-weight: 800;
 }
