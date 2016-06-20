@@ -90,6 +90,10 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+header h1 {
+  padding-top: 1em;
+}
+
 .left {
   text-align: left;
 }
