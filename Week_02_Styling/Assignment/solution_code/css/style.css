@@ -93,3 +93,11 @@ footer {
 .left {
   text-align: left;
 }
+
+.padded {
+  padding: 0 4em;
+}
+
+blockquote {
+  padding: 0 10em;
+}
