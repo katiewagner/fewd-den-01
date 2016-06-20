@@ -64,6 +64,7 @@ body {
 
 section, header, aside, footer, h1, h2, blockquote {
   margin: 0 auto;
+  padding: 1em 0;
 }
 
 header {
@@ -75,6 +76,7 @@ header {
   padding-top: 58.34%;
   position: relative;  
   margin: 0 auto;
+  padding-bottom: 0;
 }
 
 .content {
