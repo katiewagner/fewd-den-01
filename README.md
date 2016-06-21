@@ -43,24 +43,24 @@ This schedule is relatively “loose” and some material will be taught interch
 
 |Lesson # | Topic | Notes|
 |----|---------|---------------|
-| __Lesson 0__| Git and GitHub |  |
-| __Lesson 1__| HTML Basics |  |
-| __Lesson 2__| CSS Basics |  |
-| __Lesson 3__| CSS Box Model |  |
-| __Lesson 4__| Layout |  |
-| __Lesson 5__| Layout Lab | |
-| __Lesson 6__| Layout Lab | |
-| __Lesson 7__| Intro to Programming | |
-| __Lesson 8__| jQuery Basics | |
-| __Lesson 9__| Conditionals | |
-| __Lesson 10__| Functions | |
-| __Lesson 11__| Card Matching Game Lab | |
-| __Lesson 12__| Refactoring | |
-| __Lesson 13__| Responsive Basics | |
-| __Lesson 14__| Responsive Lab | |
-| __Lesson 15__| Basic Forms | |
-| __Lesson 16__| Forms Lab | |
-| __Lesson 17__| Final Project Lab | |
-| __Lesson 18__| Student Choice Lesson | |
-| __Lesson 19__| Instructor Choice Lesson | |
-| __Lesson 20__| Final Project Presentations | |
+| __Lesson 0__| Git and GitHub | 06/01 |
+| __Lesson 1__| HTML Basics | 06/06 |
+| __Lesson 2__| CSS Basics | 06/08 |
+| __Lesson 3__| CSS Box Model | 06/13 |
+| __Lesson 4__| Layout | 06/15 |
+| __Lesson 5__| Layout Lab | 06/20 |
+| __Lesson 6__| Layout Lab | 06/22 |
+| __Lesson 7__| Intro to Programming | 06/27 |
+| __Lesson 8__| jQuery Basics | 06/29 | 
+| __Lesson 9__| Conditionals | 07/06 |
+| __Lesson 10__| Functions | 07/11 |
+| __Lesson 11__| Card Matching Game Lab | 07/13 |
+| __Lesson 12__| Refactoring | 07/18 |
+| __Lesson 13__| Responsive Basics | 07/20 |
+| __Lesson 14__| Responsive Lab | 07/25 |
+| __Lesson 15__| Basic Forms | 07/27 |
+| __Lesson 16__| Forms Lab | 08/01 |
+| __Lesson 17__| Final Project Lab | 08/03 |
+| __Lesson 18__| Student Choice Lesson | TBD |
+| __Lesson 19__| Instructor Choice Lesson | TBD |
+| __Lesson 20__| Final Project Presentations | 08/10 |
