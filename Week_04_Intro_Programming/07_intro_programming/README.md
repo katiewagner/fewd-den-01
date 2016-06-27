@@ -19,10 +19,10 @@
 
 | Time        | Topic| GA ICLs| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
-| 75 min | [Introduction to Programming](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_04_Intro_Programming/07_intro_programming/README.md#introduction-to-programming)| Thermostat <br> Rock Paper Scissors |  |
-| 10 min | [Introduction To JS](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_04_Intro_Programming/07_intro_programming/README.md#introduction-to-javascript) | What JS Can Do | A discussion about JS functionality. Based on the JS video students watched for [homework](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3).|
-| 60 min | [Reading JS](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_04_Intro_Programming/07_intro_programming/README.md#reading-js) | Color Switcher <br> | An introduction to JavaScript s syntax |
-| 30 min | [Lab Time](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_04_Intro_Programming/07_intro_programming/README.md#traffic-light) | Traffic Light |  |
+| 75 min | [Introduction to Programming](#introduction-to-programming)| Thermostat <br> Rock Paper Scissors |  |
+| 10 min | [Introduction To JS](#introduction-to-javascript) | What JS Can Do | A discussion about JS functionality. Based on the JS video students watched for [homework](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3).|
+| 60 min | [Reading JS](#reading-js) | Color Switcher <br> | An introduction to JavaScript s syntax |
+| 30 min | [Lab Time](#traffic-light) | Traffic Light |  |
 
 ---
 
