@@ -38,7 +38,7 @@ _Time: 20min_
 
 #####DOM Selectors
 
-| Code along | [GA Solution File](solution/domSelectors_solution)|
+| Code along | [GA Solution File](solutions/domSelectors_solution)|
 | :------------- |:-------------|
 | __Time__ | 20 min| 
 | __Topics__ | jQuery click event, DOM manipulation| 
@@ -54,7 +54,7 @@ _Time: 40min_
 
 #####Score Keeper
 
-|Code along | [GA Solution File](solution/score_keeper)|
+|Code along | [GA Solution File](solutions/score_keeper)|
 | ------------- |:-------------|
 | __Time__ | 30 min| 
 | __Topics__ | data types, variables | 
